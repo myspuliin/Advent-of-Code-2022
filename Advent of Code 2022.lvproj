@@ -15,6 +15,10 @@
 			<Item Name="Day 1 (Part One).vi" Type="VI" URL="../Day 01/Day 1 (Part One).vi"/>
 			<Item Name="Day 1 (Part Two).vi" Type="VI" URL="../Day 01/Day 1 (Part Two).vi"/>
 		</Item>
+		<Item Name="Day 2: Rock Paper Scissors" Type="Folder">
+			<Item Name="Day 2 (Part One).vi" Type="VI" URL="../Day 02/Day 2 (Part One).vi"/>
+			<Item Name="Day 2 (Part Two).vi" Type="VI" URL="../Day 02/Day 2 (Part Two).vi"/>
+		</Item>
 		<Item Name="Dependencies" Type="Dependencies">
 			<Item Name="vi.lib" Type="Folder">
 				<Item Name="Error Cluster From Error Code.vi" Type="VI" URL="/&lt;vilib&gt;/Utility/error.llb/Error Cluster From Error Code.vi"/>
@@ -56,6 +60,8 @@
 				<Item Name="DialogType.ctl" Type="VI" URL="/&lt;vilib&gt;/Utility/error.llb/DialogType.ctl"/>
 				<Item Name="General Error Handler.vi" Type="VI" URL="/&lt;vilib&gt;/Utility/error.llb/General Error Handler.vi"/>
 				<Item Name="Simple Error Handler.vi" Type="VI" URL="/&lt;vilib&gt;/Utility/error.llb/Simple Error Handler.vi"/>
+				<Item Name="Delimited String to 1D String Array.vi" Type="VI" URL="/&lt;vilib&gt;/AdvancedString/Delimited String to 1D String Array.vi"/>
+				<Item Name="Space Constant.vi" Type="VI" URL="/&lt;vilib&gt;/dlg_ctls.llb/Space Constant.vi"/>
 			</Item>
 		</Item>
 		<Item Name="Build Specifications" Type="Build"/>
