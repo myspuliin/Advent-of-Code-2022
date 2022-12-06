@@ -19,6 +19,10 @@
 			<Item Name="Day 2 (Part One).vi" Type="VI" URL="../Day 02/Day 2 (Part One).vi"/>
 			<Item Name="Day 2 (Part Two).vi" Type="VI" URL="../Day 02/Day 2 (Part Two).vi"/>
 		</Item>
+		<Item Name="Day 3: Rucksack Reorganization" Type="Folder">
+			<Item Name="Day 3 (Part One).vi" Type="VI" URL="../Day 03/Day 3 (Part One).vi"/>
+			<Item Name="Day 3 (Part Two).vi" Type="VI" URL="../Day 03/Day 3 (Part Two).vi"/>
+		</Item>
 		<Item Name="Dependencies" Type="Dependencies">
 			<Item Name="vi.lib" Type="Folder">
 				<Item Name="Error Cluster From Error Code.vi" Type="VI" URL="/&lt;vilib&gt;/Utility/error.llb/Error Cluster From Error Code.vi"/>
